@@ -7,8 +7,8 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-2" value="多源异构数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-4" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
