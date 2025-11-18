@@ -22,8 +22,8 @@
             <mxPoint x="150.1" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="270" width="20" as="geometry" />
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-11" value="&lt;h6&gt;分块、&lt;/h6&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="260" width="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
