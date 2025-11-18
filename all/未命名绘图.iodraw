@@ -79,13 +79,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-56" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="580" width="170" height="330" as="geometry" />
+          <mxGeometry x="170" y="580" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-57" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry width="170" height="70" as="geometry" />
+          <mxGeometry width="280" height="84.84848484848484" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-58" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry x="47.5" y="60" width="92.5" height="100" as="geometry" />
+          <mxGeometry x="78.23529411764706" y="72.72727272727273" width="152.35294117647058" height="121.21212121212122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
