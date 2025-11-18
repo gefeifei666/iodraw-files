@@ -82,10 +82,10 @@
           <mxGeometry x="170" y="580" width="170" height="330" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-57" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry width="85" height="330" as="geometry" />
+          <mxGeometry width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-58" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry x="47.5" y="190" width="75" height="83.5" as="geometry" />
+          <mxGeometry x="47.5" y="60" width="92.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
