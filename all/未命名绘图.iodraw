@@ -13,13 +13,13 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-4" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-6" value="验证数据集" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="330" as="sourcePoint" />
-            <mxPoint x="330" y="280" as="targetPoint" />
+            <mxPoint x="149.66" y="240" as="sourcePoint" />
+            <mxPoint x="150" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
