@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-2" value="多源异构数据" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-4" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GGuC7pYG3KhQ1CTdzn3p-6" target="GGuC7pYG3KhQ1CTdzn3p-17">
           <mxGeometry relative="1" as="geometry">
@@ -39,13 +39,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-17" value="命名实体识别" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GGuC7pYG3KhQ1CTdzn3p-20" target="GGuC7pYG3KhQ1CTdzn3p-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-20" value="关系抽取" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GGuC7pYG3KhQ1CTdzn3p-23" target="GGuC7pYG3KhQ1CTdzn3p-25">
           <mxGeometry relative="1" as="geometry">
