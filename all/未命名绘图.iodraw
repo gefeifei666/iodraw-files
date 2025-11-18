@@ -50,6 +50,9 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-20" value="关系抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GGuC7pYG3KhQ1CTdzn3p-23" target="GGuC7pYG3KhQ1CTdzn3p-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-23" value="社区聚类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
