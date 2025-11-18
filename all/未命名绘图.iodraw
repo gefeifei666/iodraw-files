@@ -60,6 +60,9 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-134" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;社区聚类算法&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;社区摘要算法&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="300" width="155" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GGuC7pYG3KhQ1CTdzn3p-88" target="GGuC7pYG3KhQ1CTdzn3p-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
