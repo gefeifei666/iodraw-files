@@ -51,6 +51,9 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-95" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;知识抽取模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="302.5" y="130" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-116" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
