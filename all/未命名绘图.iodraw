@@ -82,7 +82,7 @@
           <mxGeometry x="160" y="570" width="310" height="520" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;知识图谱构建&lt;/font&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry width="310" height="80" as="geometry" />
+          <mxGeometry width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-58" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
           <mxGeometry x="65.33" y="80" width="179.34" height="89" as="geometry" />
