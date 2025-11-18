@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-2" value="多源异构数据" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="75" width="120" height="50" as="geometry" />
+          <mxGeometry x="-60" y="75" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-4" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="175" width="120" height="50" as="geometry" />
+          <mxGeometry x="-60" y="175" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-6" value="验证数据集" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="285" width="120" height="50" as="geometry" />
