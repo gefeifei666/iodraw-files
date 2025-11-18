@@ -79,16 +79,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-56" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="560" width="320" height="400" as="geometry" />
+          <mxGeometry x="40" y="580" width="320" height="340" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;知识图谱构建&lt;/font&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry width="320" height="46.15384615384615" as="geometry" />
+          <mxGeometry width="320" height="39.230769230769226" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实体识别、命名&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry x="63.72" y="61.53571428571429" width="192.56" height="38.464285714285715" as="geometry" />
+          <mxGeometry x="63.72" y="52.30535714285715" width="192.56" height="32.69464285714286" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系抽取&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry x="63.72" y="142.85714285714286" width="192.56" height="38.464285714285715" as="geometry" />
+          <mxGeometry x="63.72" y="144.49757142857143" width="192.56" height="32.69464285714286" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GGuC7pYG3KhQ1CTdzn3p-56" source="GGuC7pYG3KhQ1CTdzn3p-58" target="GGuC7pYG3KhQ1CTdzn3p-61">
           <mxGeometry relative="1" as="geometry" />
