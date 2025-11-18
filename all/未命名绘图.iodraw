@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-56" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="600" width="320" height="340" as="geometry" />
+          <mxGeometry x="40" y="570" width="320" height="340" as="geometry" />
         </mxCell>
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;知识图谱构建&lt;/font&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
           <mxGeometry y="10" width="320" height="40" as="geometry" />
@@ -93,10 +93,10 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GGuC7pYG3KhQ1CTdzn3p-56" source="GGuC7pYG3KhQ1CTdzn3p-58" target="GGuC7pYG3KhQ1CTdzn3p-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系抽取&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="103.72" y="857.1922142857143" width="192.56" height="32.69464285714286" as="geometry" />
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系抽取&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
+          <mxGeometry x="63.72" y="240.00221428571422" width="192.56" height="32.69464285714286" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GGuC7pYG3KhQ1CTdzn3p-61" target="GGuC7pYG3KhQ1CTdzn3p-64">
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GGuC7pYG3KhQ1CTdzn3p-56" source="GGuC7pYG3KhQ1CTdzn3p-61" target="GGuC7pYG3KhQ1CTdzn3p-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
