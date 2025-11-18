@@ -51,16 +51,14 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-95" value="知识抽取模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="277.5" y="85" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-98" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="350" as="sourcePoint" />
-            <mxPoint x="260" y="40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="210" />
-              <mxPoint x="160" y="70" />
-              <mxPoint x="130" y="160" />
-            </Array>
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="190" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-100" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-99">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
