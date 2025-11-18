@@ -84,8 +84,8 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;知识图谱构建&lt;/font&gt;" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
           <mxGeometry width="320" height="64.61538461538461" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-58" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
-          <mxGeometry x="67.44" y="86.15" width="192.56" height="63.85" as="geometry" />
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实体识别、命名&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="GGuC7pYG3KhQ1CTdzn3p-56">
+          <mxGeometry x="63.72" y="86.15" width="192.56" height="63.85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
