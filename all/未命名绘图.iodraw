@@ -48,8 +48,8 @@
         <mxCell id="GGuC7pYG3KhQ1CTdzn3p-88" value="训练集 &amp;amp; 验证集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="295" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="85" width="60" height="30" as="geometry" />
+        <mxCell id="GGuC7pYG3KhQ1CTdzn3p-95" value="知识抽取模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="85" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
