@@ -209,8 +209,8 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-262" value="训练集" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="290" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-265" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="780" width="50" height="100" as="geometry" />
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-265" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="870" y="910" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
