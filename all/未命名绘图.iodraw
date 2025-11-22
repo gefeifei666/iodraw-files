@@ -60,7 +60,7 @@
             <mxPoint x="610" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-141" value="数据标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;labelBackgroundColor=default;rotation=344;" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-139">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-141" value="数据标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;labelBackgroundColor=default;rotation=359;" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-139">
           <mxGeometry x="0.1035" y="1" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
