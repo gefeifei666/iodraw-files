@@ -235,7 +235,7 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-265" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="895.5" y="790" width="49" height="273.13" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-268">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-268" target="JyPD_SeTjWmrc54Zj9PF-294">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="1050" as="targetPoint" />
           </mxGeometry>
