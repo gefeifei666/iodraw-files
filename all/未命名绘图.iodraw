@@ -215,16 +215,11 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-262" value="训练集" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="290" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-265">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="924" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-265" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="899.5" y="782.93" width="49" height="273.13" as="geometry" />
+          <mxGeometry x="900.5" y="770" width="49" height="273.13" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-268" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结构化三元组&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="859" y="1006.06" width="130" height="50" as="geometry" />
+          <mxGeometry x="860" y="950" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-273" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;最大池化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1050" y="718" width="60" height="30" as="geometry" />
