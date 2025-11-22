@@ -141,7 +141,7 @@
             <mxPoint x="840" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-255" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;spacingLeft=2;spacingRight=12;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;fillColor=default;" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-225">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-255" value="先" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;spacingLeft=2;spacingRight=12;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-225">
           <mxGeometry x="0.0653" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
