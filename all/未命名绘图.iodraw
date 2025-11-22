@@ -212,10 +212,10 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-265" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="899" y="783.43" width="50" height="273.13" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-267" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-267" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="860" as="sourcePoint" />
-            <mxPoint x="970" y="810" as="targetPoint" />
+            <mxPoint x="923.5" y="936.56" as="sourcePoint" />
+            <mxPoint x="923.5" y="1056.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
