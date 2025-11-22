@@ -25,10 +25,10 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-103" value="网络词条" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-104" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-104" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;strokeWidth=2;rounded=0;exitX=0.635;exitY=-0.107;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-102">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-250" y="450" as="sourcePoint" />
-            <mxPoint x="-200" y="400" as="targetPoint" />
+            <mxPoint x="-210" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
