@@ -219,10 +219,10 @@
           <mxGeometry x="660" y="595" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-259" value="&amp;nbsp;微调&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=10;" vertex="1" parent="1">
-          <mxGeometry x="690" y="300" width="85" height="40" as="geometry" />
+          <mxGeometry x="670" y="300" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-260" value="&amp;nbsp; 对比学习" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=19;" vertex="1" parent="1">
-          <mxGeometry x="790" y="325" width="85" height="40" as="geometry" />
+          <mxGeometry x="765" y="324" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-262" value="训练集" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="290" width="85" height="40" as="geometry" />
