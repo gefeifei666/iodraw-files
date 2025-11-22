@@ -84,7 +84,12 @@
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-144">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="430" as="targetPoint" />
+            <mxPoint x="770" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-153" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-152">
+          <mxGeometry x="-0.1413" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-144" value="分词器&lt;div&gt;tokenizer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
