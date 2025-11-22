@@ -106,8 +106,8 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-145" value="术语词汇表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-160" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="370" width="140" height="104" as="geometry" />
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-160" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="370" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-161" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JyPD_SeTjWmrc54Zj9PF-160">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
