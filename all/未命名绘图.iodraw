@@ -153,7 +153,7 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-229" value="多尺度CNN核&lt;div&gt;（关系）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=12;spacingTop=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-240" value="全连接层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;spacingLeft=2;spacingRight=12;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-240" value="全连接层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=2;spacingRight=12;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="750" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
