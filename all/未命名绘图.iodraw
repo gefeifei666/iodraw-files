@@ -114,9 +114,6 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-164" value="tokens嵌入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="415" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-201" value="&amp;nbsp; 多源异构数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="940" y="396" width="110" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
