@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-228" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=top;spacingLeft=2;spacingRight=12;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="870" y="670" width="88" height="60" as="geometry" />
+          <mxGeometry x="740" y="690" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
