@@ -155,24 +155,13 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-228" value="多尺度CNN核（实体）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=12;spacingTop=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="710" y="670" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;shape=arrow;strokeWidth=1;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-229">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;shape=arrow;strokeWidth=2;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-229">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1070" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-229" value="多尺度CNN核（关系）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=-3;spacingRight=12;spacingTop=6;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="670" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-237" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=default;align=center;verticalAlign=top;spacingLeft=2;spacingRight=12;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="845" y="720" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-238" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=4;" edge="1" target="JyPD_SeTjWmrc54Zj9PF-237" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="700" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="880" y="730" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
