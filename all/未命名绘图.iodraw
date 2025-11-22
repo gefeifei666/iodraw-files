@@ -8,22 +8,22 @@
           <mxGeometry x="1390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多源异构数据&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="300" width="180" height="120" as="geometry" />
+          <mxGeometry x="-270" y="300" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-97" value="工程日志、报告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="260" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-99" value="行业标准" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="360" width="70" height="50" as="geometry" />
+          <mxGeometry x="-350" y="350" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-100" value="经验文档" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-112.5" y="260" width="55" height="50" as="geometry" />
+          <mxGeometry x="-112.5" y="270" width="55" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-102" value="领域学术论文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="-270" y="435" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-103" value="网络词条" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="420" width="70" height="40" as="geometry" />
+          <mxGeometry x="-120" y="430" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
