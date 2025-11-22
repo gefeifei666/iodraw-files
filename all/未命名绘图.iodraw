@@ -87,7 +87,7 @@
             <mxPoint x="770" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JyPD_SeTjWmrc54Zj9PF-153" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-152">
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-153" value="tokens&lt;br&gt;嵌入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JyPD_SeTjWmrc54Zj9PF-152">
           <mxGeometry x="-0.1413" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
