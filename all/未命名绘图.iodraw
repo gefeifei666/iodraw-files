@@ -82,8 +82,13 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-143" value="训练集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="310" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-144" value="分词器&lt;div&gt;tokenizer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-145" target="JyPD_SeTjWmrc54Zj9PF-144">
           <mxGeometry relative="1" as="geometry" />
