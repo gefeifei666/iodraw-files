@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyPD_SeTjWmrc54Zj9PF-164">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="430" as="targetPoint" />
+            <mxPoint x="840" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="840" y="430" />
               <mxPoint x="840" y="430" />
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-164" value="tokens嵌入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="415" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="415" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
