@@ -166,7 +166,7 @@
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="623" y="930" as="targetPoint" />
+            <mxPoint x="620" y="980" as="targetPoint" />
             <mxPoint x="785" y="750" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-287" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;平均&amp;nbsp; 池化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="755" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-291" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1003.13" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
