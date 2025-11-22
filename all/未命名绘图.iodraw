@@ -114,6 +114,18 @@
         <mxCell id="JyPD_SeTjWmrc54Zj9PF-164" value="tokens嵌入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="415" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-169" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-170" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="JyPD_SeTjWmrc54Zj9PF-169">
+          <mxGeometry x="20" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-171" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="JyPD_SeTjWmrc54Zj9PF-169">
+          <mxGeometry x="20" y="120" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JyPD_SeTjWmrc54Zj9PF-172" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="JyPD_SeTjWmrc54Zj9PF-169">
+          <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
