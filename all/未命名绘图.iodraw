@@ -136,14 +136,6 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="485" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1354" y="425" />
-              <mxPoint x="1354" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -155,11 +147,8 @@
             <mxPoint x="1265" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.702;entryY=0.019;entryDx=0;entryDy=0;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-71" target="qgoEtt7ffsp8A4yVpx16-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-71" value="Neo4j图索引" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1307.5" y="363" width="95" height="40" as="geometry" />
+          <mxGeometry x="1320" y="363" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Top-M图谱证据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;（关系链/规则/案例）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="485" width="120" height="40" as="geometry" />
@@ -234,6 +223,9 @@
           <mxGeometry x="0.2286" relative="1" as="geometry">
             <mxPoint x="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pHFgRZNF_3nkRA6PQeSr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
