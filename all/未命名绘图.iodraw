@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-22" value="术语词典+映射表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="492.55" y="130" width="95" height="40" as="geometry" />
+          <mxGeometry x="492.55" y="260" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-25" target="qgoEtt7ffsp8A4yVpx16-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
