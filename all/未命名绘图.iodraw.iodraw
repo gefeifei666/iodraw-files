@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-11" value="用户输入查询&lt;div&gt;（自然语言）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="191.25" width="150" height="42.5" as="geometry" />
+          <mxGeometry x="130" y="191.25" width="150" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-13" target="qgoEtt7ffsp8A4yVpx16-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-13" value="查询预处理&lt;div&gt;(切词/纠错/脱敏)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="140" height="45" as="geometry" />
+          <mxGeometry x="300" y="190" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-16" target="qgoEtt7ffsp8A4yVpx16-18">
           <mxGeometry relative="1" as="geometry" />
