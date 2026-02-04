@@ -109,8 +109,10 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-45" value="补召回/扩展&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;·&amp;nbsp;&lt;/b&gt;BM25检索&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1290" y="244" width="130" height="40.62" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-48" target="qgoEtt7ffsp8A4yVpx16-53">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="qgoEtt7ffsp8A4yVpx16-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1195" y="351" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-55" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;实体/约束&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="qgoEtt7ffsp8A4yVpx16-54">
           <mxGeometry x="-0.4203" relative="1" as="geometry">
@@ -124,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-53" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;实体/关键词增强查询&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（工序/设备/阶段等约束）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="1070" y="376" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-62" target="qgoEtt7ffsp8A4yVpx16-33">
           <mxGeometry relative="1" as="geometry">
@@ -132,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1070" y="436" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71">
           <mxGeometry relative="1" as="geometry" />
@@ -141,10 +143,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-68" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Neo4j 图精检&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;k-hop扩展+路径评分&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="1270" y="376" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-48" target="qgoEtt7ffsp8A4yVpx16-68">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="qgoEtt7ffsp8A4yVpx16-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265" y="351" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-71" target="qgoEtt7ffsp8A4yVpx16-68">
           <mxGeometry relative="1" as="geometry" />
@@ -153,7 +157,7 @@
           <mxGeometry x="1430" y="360" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Top-M图谱证据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;（关系链/规则/案例）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1270" y="436" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
