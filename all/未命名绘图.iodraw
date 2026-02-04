@@ -137,7 +137,11 @@
           <mxGeometry x="1070" y="485" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -154,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-71" value="Neo4j图索引" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="425" width="95" height="40" as="geometry" />
+          <mxGeometry x="1340" y="350" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Top-M图谱证据&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;（关系链/规则/案例）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="485" width="120" height="40" as="geometry" />
