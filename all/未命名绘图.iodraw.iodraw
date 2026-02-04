@@ -163,7 +163,7 @@
           <mxGeometry x="1270" y="485" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-77" value="候选社区合并&lt;div&gt;（去重/保留）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="360" width="140" height="45" as="geometry" />
+          <mxGeometry x="1160" y="357" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
