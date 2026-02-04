@@ -25,7 +25,7 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qgoEtt7ffsp8A4yVpx16-16" target="qgoEtt7ffsp8A4yVpx16-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-16" value="术语归一化&lt;div&gt;（同义/别名映射）&lt;/div&gt;&lt;div&gt;意图识别与路由&lt;div&gt;（工艺/缺陷/运维）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-16" value="术语归一化&lt;div&gt;（同义/别名映射）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="190" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-18" target="qgoEtt7ffsp8A4yVpx16-20" edge="1">
