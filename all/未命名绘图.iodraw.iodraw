@@ -166,7 +166,7 @@
           <mxGeometry x="1160" y="358" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-80" value="实体抽取/对齐&lt;br&gt;（候选/证据中）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="368" width="140" height="45" as="geometry" />
+          <mxGeometry x="1160" y="550" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
