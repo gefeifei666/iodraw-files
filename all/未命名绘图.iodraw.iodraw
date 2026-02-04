@@ -98,7 +98,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-45" value="补召回/扩展&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;·&amp;nbsp;&lt;/b&gt;BM25检索&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-45" value="补召回/扩展&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;·&amp;nbsp;&lt;/b&gt;BM25检索&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1240" y="249.38" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
