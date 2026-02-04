@@ -68,6 +68,9 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-33" value="FAISS向量索引" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1002.5" y="270" width="95" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
