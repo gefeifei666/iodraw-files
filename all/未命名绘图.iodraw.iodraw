@@ -23,7 +23,10 @@
           <mxGeometry x="340" y="190" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-16" value="术语归一化&lt;div&gt;（同义/别名映射）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="188.75" width="140" height="45" as="geometry" />
+          <mxGeometry x="540" y="190" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-18" value="查询预处理&lt;div&gt;(切词/纠错/脱敏)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="218.75" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
