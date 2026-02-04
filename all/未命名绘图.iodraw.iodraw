@@ -7,6 +7,9 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-9" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
