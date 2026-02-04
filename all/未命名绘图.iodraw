@@ -136,10 +136,10 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="485" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71" edge="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1330" y="370" />
+              <mxPoint x="1360" y="370" />
               <mxPoint x="1354" y="370" />
             </Array>
           </mxGeometry>
