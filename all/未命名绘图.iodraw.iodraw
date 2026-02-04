@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOSRGXW4QEuaN98SZP0k">
-    <mxGraphModel dx="417" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-80" value="实体抽取/对齐&lt;br&gt;（候选/证据中）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="550" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.849;entryY=-0.001;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="qgoEtt7ffsp8A4yVpx16-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1290" y="528" as="sourcePoint" />
             <mxPoint x="1267" y="550" as="targetPoint" />
