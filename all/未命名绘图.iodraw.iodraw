@@ -140,8 +140,8 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-48" target="qgoEtt7ffsp8A4yVpx16-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-71" value="FAISS向量索引" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1012.5" y="302.5" width="95" height="40" as="geometry" />
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-71" value="Neo4j图索引" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="360" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
