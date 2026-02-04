@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-9" target="qgoEtt7ffsp8A4yVpx16-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-9" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-11" value="用户输入查询" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="185" width="120" height="55" as="geometry" />
+          <mxGeometry x="150" y="187.5" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
