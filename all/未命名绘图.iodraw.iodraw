@@ -111,14 +111,14 @@
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-55" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;实体/约束&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="qgoEtt7ffsp8A4yVpx16-54">
           <mxGeometry x="-0.4203" relative="1" as="geometry">
-            <mxPoint x="-30" y="-5" as="offset" />
+            <mxPoint x="-30" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-48" value="候选社区合并&lt;div&gt;（去重/保留）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="290" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-53" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;实体/关键词增强查询&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（工序/设备/阶段等约束）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="370" width="130" height="44" as="geometry" />
+          <mxGeometry x="1080" y="369" width="130" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
