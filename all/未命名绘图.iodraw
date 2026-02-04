@@ -1,14 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOSRGXW4QEuaN98SZP0k">
-    <mxGraphModel dx="868" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-9" target="qgoEtt7ffsp8A4yVpx16-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="191.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-9" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="325" y="130" width="100" height="40" as="geometry" />
         </mxCell>
@@ -44,6 +39,9 @@
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-20" value="查询向量化&lt;div&gt;（Encoder）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="190" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pHFgRZNF_3nkRA6PQeSr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-22" target="qgoEtt7ffsp8A4yVpx16-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-22" value="术语词典+映射表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="492.55" y="260" width="95" height="40" as="geometry" />
