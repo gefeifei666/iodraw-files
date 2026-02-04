@@ -69,7 +69,10 @@
           <mxGeometry x="1002.5" y="270" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-37" value="粗筛&lt;br&gt;是否足够" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="176.25" width="80" height="73.75" as="geometry" />
+          <mxGeometry x="1150" y="175.63" width="80" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.046;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-25" target="qgoEtt7ffsp8A4yVpx16-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
