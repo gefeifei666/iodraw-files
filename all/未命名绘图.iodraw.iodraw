@@ -126,16 +126,6 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="414" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070.0000000000002" y="437.7999999999999" as="sourcePoint" />
-            <mxPoint x="1046.4850000000004" y="332.50000000000006" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1070" y="438" />
-              <mxPoint x="1047" y="438" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
