@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-45" value="补召回/扩展&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;·&amp;nbsp;&lt;/b&gt;BM25检索&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="235" width="130" height="40.62" as="geometry" />
+          <mxGeometry x="1250" y="242" width="130" height="40.62" as="geometry" />
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-48" value="候选社区合并&lt;div&gt;（去重/保留）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="290" width="140" height="45" as="geometry" />
