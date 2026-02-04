@@ -160,6 +160,9 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-77" value="实体抽取/对齐&lt;br&gt;（候选/证据中）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="358" width="140" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-80" target="qgoEtt7ffsp8A4yVpx16-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-80" value="融合排序&lt;div&gt;RFF/加权融合+规则过滤&lt;/div&gt;&lt;div&gt;（时序一致性/冲突消解）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="550" width="140" height="45" as="geometry" />
         </mxCell>
@@ -182,6 +185,9 @@
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-84" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Top-K&#39;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1159.997864474573" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-86" value="融合排序&lt;div&gt;RFF/加权融合+规则过滤&lt;/div&gt;&lt;div&gt;（时序一致性/冲突消解）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="550" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
