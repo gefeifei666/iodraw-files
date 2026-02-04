@@ -82,6 +82,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-37" target="qgoEtt7ffsp8A4yVpx16-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-37" value="粗筛&lt;br&gt;是否足够" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1150" y="175.63" width="80" height="73.75" as="geometry" />
         </mxCell>
@@ -94,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-45" value="补召回/扩展&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;·&amp;nbsp;&lt;/b&gt;BM25检索&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="280" width="130" height="40.62" as="geometry" />
+          <mxGeometry x="1250" y="235" width="130" height="40.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
