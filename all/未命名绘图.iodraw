@@ -206,6 +206,9 @@
         <mxCell id="pHFgRZNF_3nkRA6PQeSr-4" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="380" y="552.5" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pHFgRZNF_3nkRA6PQeSr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHFgRZNF_3nkRA6PQeSr-6" target="qgoEtt7ffsp8A4yVpx16-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pHFgRZNF_3nkRA6PQeSr-6" value="一致性/&lt;div&gt;置信检验&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="535.3199999999999" width="80" height="74.37" as="geometry" />
         </mxCell>
