@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOSRGXW4QEuaN98SZP0k">
-    <mxGraphModel dx="868" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="417" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,10 +136,11 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="485" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71" edge="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qgoEtt7ffsp8A4yVpx16-68" target="qgoEtt7ffsp8A4yVpx16-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1330" y="370" />
+              <mxPoint x="1354" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
