@@ -174,7 +174,7 @@
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-82" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;图谱证据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="qgoEtt7ffsp8A4yVpx16-81">
           <mxGeometry x="-0.4203" relative="1" as="geometry">
-            <mxPoint x="17" y="5" as="offset" />
+            <mxPoint x="16" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.797;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-62" target="qgoEtt7ffsp8A4yVpx16-80">
@@ -186,8 +186,11 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-84" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Top-K&#39;,向量证据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1148" y="537" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-86" value="最终正局级&lt;div&gt;（Top-K&#39;+证据链）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-86" value="最终证据集&lt;div&gt;（Top-K&#39;+证据链）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="550" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-88" value="最终证据集&lt;div&gt;（Top-K&#39;+证据链）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="560" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
