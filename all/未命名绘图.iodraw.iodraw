@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOSRGXW4QEuaN98SZP0k">
-    <mxGraphModel dx="719" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,11 @@
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-33" value="FAISS向量索引" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1002.5" y="270" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-37" value="粗筛&lt;br&gt;是否足够" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1150" y="175.63" width="80" height="73.75" as="geometry" />
