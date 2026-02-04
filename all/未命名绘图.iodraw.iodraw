@@ -123,9 +123,9 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-53" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;实体/关键词增强查询&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（工序/设备/阶段等约束）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-62">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.396;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-62" target="qgoEtt7ffsp8A4yVpx16-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040.0000000000002" y="434" as="targetPoint" />
+            <mxPoint x="1040" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
