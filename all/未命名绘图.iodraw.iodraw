@@ -134,10 +134,10 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-62" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;FAISS向量精检&lt;br&gt;子索引/约束检索 Top-K&#39;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-68" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;实体/关键词增强查询&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（工序/设备/阶段等约束）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-68" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Neo4j 图精检&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;k-hop扩展+路径评分&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-48" target="qgoEtt7ffsp8A4yVpx16-68">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-48" target="qgoEtt7ffsp8A4yVpx16-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
