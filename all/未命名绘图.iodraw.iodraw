@@ -25,11 +25,6 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-16" target="qgoEtt7ffsp8A4yVpx16-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-16" value="术语归一化&lt;div&gt;（同义/别名映射）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="140" height="45" as="geometry" />
         </mxCell>
@@ -45,7 +40,7 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-22" target="qgoEtt7ffsp8A4yVpx16-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-22" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-22" value="术语词典+映射表" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="130" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
