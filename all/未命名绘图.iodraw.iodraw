@@ -117,11 +117,11 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-48" value="候选社区合并&lt;div&gt;（去重/保留）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="290" width="140" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-57" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-53" target="qgoEtt7ffsp8A4yVpx16-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qgoEtt7ffsp8A4yVpx16-53" value="FAISS向量精检&lt;div&gt;Top-N证据块/三元组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="369" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qgoEtt7ffsp8A4yVpx16-53" target="qgoEtt7ffsp8A4yVpx16-33">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
