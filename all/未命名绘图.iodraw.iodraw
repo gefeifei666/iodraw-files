@@ -13,8 +13,8 @@
         <mxCell id="qgoEtt7ffsp8A4yVpx16-11" value="用户输入查询" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="187.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="qgoEtt7ffsp8A4yVpx16-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="qgoEtt7ffsp8A4yVpx16-13" value="查询预处理&lt;div&gt;(切词/纠错/脱敏)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
